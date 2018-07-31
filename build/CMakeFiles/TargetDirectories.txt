@@ -1,0 +1,2 @@
+/home/mike/ZDC_Standalone_copy/build/CMakeFiles/DEPENDS.dir
+/home/mike/ZDC_Standalone_copy/build/CMakeFiles/zdc.dir
