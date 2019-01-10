@@ -69,8 +69,6 @@ target_link_libraries(zdc ${Geant4_LIBRARIES} ${ROOT_LIBRARIES})
 # relies on these scripts being in the current working directory.
 #
 set(EXAMPLE_SCRIPTS
-  zdc.in
-  zdc.out
   init_vis.mac
   run1.mac
   run2.mac
